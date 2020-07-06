@@ -1,4 +1,5 @@
 ## Product Image Classification
+[Supervised Machine Learning]<br/>
 Product Image Classification for E-commerce using Pytorch and ResNet models. 
 
 ## Requirement:
