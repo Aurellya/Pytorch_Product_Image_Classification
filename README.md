@@ -8,7 +8,7 @@ Product Image Classification for E-commerce using Pytorch and ResNet models.
 - numpy
 - pandas
 
-## Download the Image File here:
+## Download the Image Files here:
 Download the shopee-product-detection-dataset folder<br/>
 >https://uowmailedu-my.sharepoint.com/:f:/g/personal/a522_uowmail_edu_au/EuVZ1Go93R1Bm3Vz_d7jwqkBpg9VY1jC0P1dBb88qYtu8A?e=DkUT9z
 
