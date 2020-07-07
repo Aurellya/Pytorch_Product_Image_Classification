@@ -16,4 +16,4 @@ Download the shopee-product-detection-dataset folder<br/>
 ## Step:
 - Download the files above and put it in the same folder as this repository
 - Run pytorch.py first
-- After that run run.py
+- After that, run run.py
